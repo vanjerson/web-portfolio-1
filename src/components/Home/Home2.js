@@ -29,7 +29,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I’m passionate about everything that goes into making websites work well and look beautiful. &nbsp;
+              I’m passionate about everything that goes into developing websites and applications work well and look beautiful. &nbsp;
               <i>
                 <b className="purple">The web is my passion </b> because it’s where I get to express my creativity in ways that are hard to find elsewhere.{" "}
                 <b className="purple">
