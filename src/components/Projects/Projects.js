@@ -19,7 +19,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="Project"
-              description="Personal Project or Workspace to share resources with friends build with react.js, and Material-UI. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Project"
               ghLink="#"
               demoLink="#"
             />
@@ -28,7 +28,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="Project"
-              description="Personal Project or Workspace to share resources with friends build with react.js, and Material-UI. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Project"
               ghLink="#"
               demoLink="#"
             />
@@ -37,7 +37,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="Project"
-              description="Personal Project or Workspace to share resources with friends build with react.js, and Material-UI. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Project"
               ghLink="#"
               demoLink="#"      
             />
@@ -46,7 +46,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="Project"
-              description="Personal Project or Workspace to share resources with friends build with react.js, and Material-UI. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Project"
               ghLink="#"
               demoLink="#"
             />
@@ -55,7 +55,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="Project"
-              description="Personal Project or Workspace to share resources with friends build with react.js, and Material-UI. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Project"
               ghLink="#"
               demoLink="#"
             />
@@ -64,7 +64,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="Project"
-              description="Personal Project or Workspace to share resources with friends build with react.js, and Material-UI. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Personal Project"
               ghLink="#"
               demoLink="#"
             />
